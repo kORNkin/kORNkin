@@ -2,7 +2,7 @@
 ## 🪴 About Me
 - My name is Supphakon Yimi (Korn) ✨ <br>
 - I'm 17 years old who love tech stuff! 💻 <br>
-- I'm currently studying at Princess Chulabhorn Science High School Nakhon Si Thammarat 📚 <br>
+- currently studying at Princess Chulabhorn Science High School Nakhon Si Thammarat 📚 <br>
 
 <br>
 <div align="center">
