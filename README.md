@@ -1,4 +1,4 @@
-# 👋(≧▽≦*)o Yoo!
+# 👋(>▽<*)o Yoo!
 ## 🪴 About Me
 - I am Supphakon Yimi, or Korn. ✨ <br>
 - I'm 18 years old who love tech stuff! 💻 <br>
