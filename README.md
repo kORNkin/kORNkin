@@ -2,8 +2,8 @@
 ## 🪴 About Me
 - I am Supphakon Yimi, or Korn. ✨ <br>
 - I'm 19 years old who love tech stuff! 💻 <br>
-- Graduated from Princess Chulabhorn Science High School Nakhon Si Thammarat 📚 <br>
-- Studying Computer Engineering, Chulalongkorn University, Thailand ⚙️
+- Graduated from Princess Chulabhorn Science High School Nakhon Si Thammarat, Thailand 📚 <br>
+- Studying Computing & AI, Hong Kong Polytechnic University ⚙️
 
 <br>
 <div align="center">
